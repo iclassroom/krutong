@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/krutong/static/css/main.5f361e03.chunk.css",
+    "main.js": "/krutong/static/js/main.6f56b99e.chunk.js",
+    "main.js.map": "/krutong/static/js/main.6f56b99e.chunk.js.map",
+    "runtime-main.js": "/krutong/static/js/runtime-main.a5e6d86d.js",
+    "runtime-main.js.map": "/krutong/static/js/runtime-main.a5e6d86d.js.map",
+    "static/js/2.1bab1f98.chunk.js": "/krutong/static/js/2.1bab1f98.chunk.js",
+    "static/js/2.1bab1f98.chunk.js.map": "/krutong/static/js/2.1bab1f98.chunk.js.map",
+    "index.html": "/krutong/index.html",
+    "precache-manifest.8ee4447b0f494c87934792f293bf97f6.js": "/krutong/precache-manifest.8ee4447b0f494c87934792f293bf97f6.js",
+    "service-worker.js": "/krutong/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/krutong/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.1bab1f98.chunk.js.LICENSE.txt": "/krutong/static/js/2.1bab1f98.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/krutong/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5e6d86d.js",
+    "static/js/2.1bab1f98.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6f56b99e.chunk.js"
+  ]
+}
