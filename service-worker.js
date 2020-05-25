@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/krutong/precache-manifest.8ee4447b0f494c87934792f293bf97f6.js"
+  "/krutong/precache-manifest.94f2aeedf2e86ffec1d99ec008e977ad.js"
 );
 
 self.addEventListener('message', (event) => {

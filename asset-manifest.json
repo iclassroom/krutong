@@ -1,23 +1,40 @@
 {
   "files": {
-    "main.css": "/krutong/static/css/main.5f361e03.chunk.css",
-    "main.js": "/krutong/static/js/main.6f56b99e.chunk.js",
-    "main.js.map": "/krutong/static/js/main.6f56b99e.chunk.js.map",
+    "main.css": "/krutong/static/css/main.23206123.chunk.css",
+    "main.js": "/krutong/static/js/main.99c052b5.chunk.js",
+    "main.js.map": "/krutong/static/js/main.99c052b5.chunk.js.map",
     "runtime-main.js": "/krutong/static/js/runtime-main.a5e6d86d.js",
     "runtime-main.js.map": "/krutong/static/js/runtime-main.a5e6d86d.js.map",
-    "static/js/2.1bab1f98.chunk.js": "/krutong/static/js/2.1bab1f98.chunk.js",
-    "static/js/2.1bab1f98.chunk.js.map": "/krutong/static/js/2.1bab1f98.chunk.js.map",
+    "static/css/2.9905d55a.chunk.css": "/krutong/static/css/2.9905d55a.chunk.css",
+    "static/js/2.5e416816.chunk.js": "/krutong/static/js/2.5e416816.chunk.js",
+    "static/js/2.5e416816.chunk.js.map": "/krutong/static/js/2.5e416816.chunk.js.map",
     "index.html": "/krutong/index.html",
-    "precache-manifest.8ee4447b0f494c87934792f293bf97f6.js": "/krutong/precache-manifest.8ee4447b0f494c87934792f293bf97f6.js",
+    "precache-manifest.94f2aeedf2e86ffec1d99ec008e977ad.js": "/krutong/precache-manifest.94f2aeedf2e86ffec1d99ec008e977ad.js",
     "service-worker.js": "/krutong/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/krutong/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.1bab1f98.chunk.js.LICENSE.txt": "/krutong/static/js/2.1bab1f98.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/krutong/static/media/logo.5d5d9eef.svg"
+    "static/css/2.9905d55a.chunk.css.map": "/krutong/static/css/2.9905d55a.chunk.css.map",
+    "static/css/main.23206123.chunk.css.map": "/krutong/static/css/main.23206123.chunk.css.map",
+    "static/js/2.5e416816.chunk.js.LICENSE.txt": "/krutong/static/js/2.5e416816.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/krutong/static/media/Sarabun-Regular.49d082d0.ttf",
+    "static/media/banner1.jpg": "/krutong/static/media/banner1.4a31f1af.jpg",
+    "static/media/banner1_.jpg": "/krutong/static/media/banner1_.4d7bed7e.jpg",
+    "static/media/bg00.jpg": "/krutong/static/media/bg00.1bcd187a.jpg",
+    "static/media/cer01.jpg": "/krutong/static/media/cer01.f08afd83.jpg",
+    "static/media/googleic.png": "/krutong/static/media/googleic.1c20c90d.png",
+    "static/media/grad1.jpg": "/krutong/static/media/grad1.17e90d84.jpg",
+    "static/media/grad2.jpg": "/krutong/static/media/grad2.dfeadfff.jpg",
+    "static/media/grad3.jpg": "/krutong/static/media/grad3.8af05600.jpg",
+    "static/media/logo.svg": "/krutong/static/media/logo.5d5d9eef.svg",
+    "static/media/profileMain.jpg": "/krutong/static/media/profileMain.b9cd405b.jpg",
+    "static/media/profileX.jpg": "/krutong/static/media/profileX.dff0c3b5.jpg",
+    "static/media/school_logo.png": "/krutong/static/media/school_logo.c94e43e3.png",
+    "static/media/sso_logo.png": "/krutong/static/media/sso_logo.453e2eb9.png",
+    "static/media/work1.jpg": "/krutong/static/media/work1.a5fa84dd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a5e6d86d.js",
-    "static/js/2.1bab1f98.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.6f56b99e.chunk.js"
+    "static/css/2.9905d55a.chunk.css",
+    "static/js/2.5e416816.chunk.js",
+    "static/css/main.23206123.chunk.css",
+    "static/js/main.99c052b5.chunk.js"
   ]
 }
